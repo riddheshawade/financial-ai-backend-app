@@ -85,14 +85,6 @@ Returns:
 
 ---
 
-## ⚠️ Notes
-
-- Basic RAG pipeline implemented  
-- Can be extended using FAISS, Qdrant, or Chroma  
-- Reranking can be added for better results  
-
----
-
 ## 👨‍💻 Author
 
 Riddhesh Awade
